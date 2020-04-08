@@ -3,3 +3,9 @@ This is my first txt file in remote repository.
 second change to check
 
 Now i am doing online changes on my file first.txt.
+
+
+_______________________________________________________
+
+8/4/2020
+Started working on smartgit locally and will push it to github after that.
