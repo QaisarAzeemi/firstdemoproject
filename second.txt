@@ -1,2 +1,10 @@
 created second file for remote repository...
 now i wil push this file to remote repository.
+I am making a few changes in my file to pull it on local repository.
+previously i made changes in first.txt and fetch these changes on my local repository using git fetch command.
+but changes didn't applied 
+so 
+to apply changes i have to write git merge command on my terminal
+now
+here
+i am just writing git pull to make changes on my local file.
