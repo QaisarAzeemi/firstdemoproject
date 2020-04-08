@@ -9,3 +9,5 @@ _______________________________________________________
 
 8/4/2020
 Started working on smartgit locally and will push it to github after that.
+
+changing again and pushing along with third.txt
