@@ -1,1 +1,7 @@
 this is fifth text file in dev branch
+
+Changes made in file in dev branch
+
+again changed
+
+changed in master branch
